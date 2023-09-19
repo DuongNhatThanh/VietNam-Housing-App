@@ -1,0 +1,16 @@
+API_KEY:
+      Bard: "aAhD1NyQqzeoXs8PclDOD_hvEI3N9uHnsn2F0isADM5FFwBfYxatJf1csSUTMo4TXLjOxA."
+CHUNK:
+      chunk_size: 256
+      chunk_overlap: 20
+CHAT:
+      chat_context_length: 20
+EMBEDDINGS:
+      HuggingFaceEmbeddings:
+            model_name: "keepitreal/vietnamese-sbert"
+            model_kwargs: {"device": "cpu"}
+LOCAL_PATH: 
+      data_path_folder: "C:/Users/duong/OneDrive/Desktop/VietNam Housing App/data_2"
+      main_path: "C:/Users/duong/OneDrive/Desktop/VietNam Housing App"
+
+
