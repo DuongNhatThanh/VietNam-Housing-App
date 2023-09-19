@@ -1,0 +1,9 @@
+bardapi==0.1.33
+langchain==0.0.294
+pandas==1.5.3
+python-dotenv==1.0.0
+PyYAML==6.0
+PyYAML==6.0.1
+Requests==2.31.0
+streamlit_feedback==0.1.2
+streamlit_option_menu==0.3.6
